@@ -41,9 +41,9 @@ The goal is to determine which promotion strategy works best and to provide acti
 - Avoid Promotion 2 in general, but consider targeting **older stores** where it performs better.  
 - Prioritize campaign spending in **large markets**, where the return on investment is highest.  
 
-## 📓 How to Run
+## How to Run
 - Open `Project.ipynb` in Jupyter Notebook or JupyterLab.  
 - All analysis, visualizations, and results are contained in the notebook.  
 
-## 📜 License
+## License
 This project is for educational purposes. Dataset provided by [Kaggle](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test/data).  
